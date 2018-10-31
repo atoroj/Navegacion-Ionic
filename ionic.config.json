@@ -1,0 +1,7 @@
+{
+  "name": "NavegacionEjercicio",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
